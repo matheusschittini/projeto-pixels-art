@@ -1,0 +1,23 @@
+.color {
+    border: 1px solid black;
+    width: 25px;
+    height: 25px;
+    float: left;
+    margin: 2px;
+}
+
+#color1 {
+    background-color: black;
+}
+
+#color2 {
+    background-color: yellow;
+}
+
+#color3 {
+    background-color: green;
+}
+
+#color4 {
+    background-color: red;
+}
