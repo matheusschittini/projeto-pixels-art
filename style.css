@@ -1,7 +1,15 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    margin: 0px;
+}
+
 .color {
     border: 1px solid black;
-    width: 25px;
-    height: 25px;
+    width: 30px;
+    height: 30px;
     float: left;
     margin: 2px;
 }
@@ -20,4 +28,16 @@
 
 #color4 {
     background-color: red;
+}
+
+#pixel-board {
+    clear: left;
+    display: flex;
+}
+
+.pixel {
+    background-color: white;
+    width: 40px;
+    height: 40px;
+    border: 1px black solid;
 }
