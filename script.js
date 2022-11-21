@@ -44,7 +44,7 @@ function paintPixels() {
     }
 }
 
-// Função que adiciona um escutador e evento no botão e faz com que ele, ao ser clicado, limpe os pixels pintados
+// Função que adiciona um escutador de evento no botão e faz com que ele, ao ser clicado, limpe os pixels pintados
 function cleanPixels() {
     const button = document.querySelector('#clear-board');
     button.addEventListener('click', () => {
