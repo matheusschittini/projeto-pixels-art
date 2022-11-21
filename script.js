@@ -40,7 +40,7 @@ function paintPixels() {
             const selectColorStyle = window.getComputedStyle(selectedColor);
             const selectColorBackground = selectColorStyle.getPropertyValue('background-color');
             event.target.style.backgroundColor = selectColorBackground;
-        })
+        });
     }
 }
 
@@ -52,7 +52,7 @@ function cleanPixels() {
         for (let pixel of pixels) {
             pixel.style.backgroundColor = 'white';
         }
-    })
+    });
 }
 
 create25PixelBoard();
