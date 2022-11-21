@@ -1,4 +1,4 @@
-### É possível ver o projeto funcionando em https://matheusschittini.github.io/projeto-pixels-art/
+#### É possível ver o projeto funcionando em https://matheusschittini.github.io/projeto-pixels-art/
 
 ## Boas vindas ao repositório do projeto Pixels Art!
 
