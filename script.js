@@ -8,7 +8,7 @@ function create25PixelBoard() {
     }
 }
 
-// Função que seleciona a cor preto quando a página é recarregada (window.onload)
+// Função que seleciona a cor preta quando a página é recarregada (window.onload)
 function selectBlack() {
     const black = document.getElementById('color1');
     black.classList.add('selected');
@@ -20,7 +20,7 @@ function removeSelectedClass() {
     selectedColor.classList.remove('selected');
 }
 
-// Função que adciona uma classe a cor quando ela é clicada
+// Função que adciona uma classe à cor quando ela é clicada
 function addSelectedClass() {
     const paletteColors = document.getElementsByClassName('color');
     for (let items of paletteColors) {
@@ -44,7 +44,7 @@ function paintPixels() {
     }
 }
 
-// Função que adiciona um escutador de evento no botão e faz com que ele, ao ser clicado, limpe os pixels pintados
+// Função que adiciona um escutador de evento ao botão e faz com que ele, ao ser clicado, limpe os pixels pintados
 function cleanPixels() {
     const button = document.querySelector('#clear-board');
     button.addEventListener('click', () => {
