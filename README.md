@@ -1,14 +1,6 @@
 #### É possível ver o projeto funcionando em https://matheusschittini.github.io/projeto-pixels-art/
 
-## Boas vindas ao repositório do projeto Pixels Art!
-
-Você já usa o GitHub diariamente para desenvolver os exercícios, certo? Agora, para desenvolver os projetos, você deverá seguir as instruções a seguir. Atenção a cada passo, e se tiver qualquer dúvida, nos envie por _Slack_! #vqv 🚀
-
-Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu projeto à partir desse repositório, utilizando uma branch específica e um _Pull Request_ para colocar seus códigos.
-
----
-
-## Sumário
+## Sumário do projeto
 
 - [Habilidades](#habilidades)
 - [Entregáveis](#entregáveis)
