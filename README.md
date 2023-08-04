@@ -2,6 +2,8 @@
 
 Esse projeto foi desenvolvido por mim no 1° módulo (Fundamentos do Desenvolvimento Web) do curso Trybe. Nele, explorei os conhecimentos ensinados acerca da manipulação do DOM (Document Object Model) através da linguagem de programação JavaScript. O objetivo do projeto é implementar uma página web que contém uma paleta de cores funcional, que pode ser utilizada para criar desenhos em pixels, utilizando JS, CSS e HTML.
 
+Exemplo:
+
 ![exemplo de arte com pixels](./art-with-pixels.gif)
 
 ## Requisitos do projeto
