@@ -1,6 +1,6 @@
 É possível ver o projeto funcionando em https://matheusschittini.github.io/projeto-pixels-art/
 
-Esse projeto foi desenvolvido por mim no 1° módulo (Fundamentos do Desenvolvimento Web) do curso Trybe. Nele, explorei os conhecimentos ensinados acerca da manipulação do DOM (Document Object Model) através da linguagem de programação JavaScript. O objetivo do projeto é implementar uma página web que contém uma paleta de cores funcional, que pode ser utilizada para criar desenhos em pixels, utilizando JS, CSS e HTML.
+Esse projeto foi desenvolvido por mim no 1° módulo (Fundamentos do Desenvolvimento Web) do curso Trybe. Nele, explorei os conhecimentos ensinados acerca de CSS, HTML e manipulação do DOM (Document Object Model) por meio da linguagem de programação JavaScript. O objetivo do projeto é implementar uma página web que contém uma paleta de cores funcional, que pode ser utilizada para criar desenhos em pixels.
 
 Exemplo:
 
