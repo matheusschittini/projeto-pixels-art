@@ -1,15 +1,10 @@
 É possível ver o projeto funcionando em https://matheusschittini.github.io/projeto-pixels-art/
 
-Esse projeto foi desenvolvido por no 1° módulo (Fundamentos do Desenvolvimento Web) do curso Trybe. Nele, explorei os conhecimentos ensinados acerca da manipulação do DOM (Document Object Model) através da linguagem de programação JavaScript. O objetivo do projeto foi implementar uma página web que contém uma paleta de cores funcional, que pode ser utilizada para criar desenhos em pixels, utilizando JS, CSS e HTML.
+Esse projeto foi desenvolvido por mim no 1° módulo (Fundamentos do Desenvolvimento Web) do curso Trybe. Nele, explorei os conhecimentos ensinados acerca da manipulação do DOM (Document Object Model) através da linguagem de programação JavaScript. O objetivo do projeto é implementar uma página web que contém uma paleta de cores funcional, que pode ser utilizada para criar desenhos em pixels, utilizando JS, CSS e HTML.
 
-## Requisitos do projeto
-
-Exemplo:
 ![exemplo de arte com pixels](./art-with-pixels.gif)
 
-Neste projeto, você implementará um editor de arte com pixels.
-
-**Ou seja, dada uma paleta de cores e um quadro composto por pixels, você vai permitir que quem usa consiga pintar o que quiser no quadro!** 👩‍🎨
+## Requisitos do projeto
 
 ### 1 - Adicione à página o título "Paleta de Cores".
 
